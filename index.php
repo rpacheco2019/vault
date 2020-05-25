@@ -19,7 +19,7 @@ if ($_POST) {
 
     /* Guardamos el resultado de la funcion para validar el guardado en la BD */
 	$validacion = save_encuesta($nombre,$evento,$fecha,$lugar,$invitados,$p1,$p2,$p3,$p4,$p5);
-	header('Location:views/gracias.php');
+	header('Location:gracias.php');
 			
 }
 
