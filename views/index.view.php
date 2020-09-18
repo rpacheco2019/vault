@@ -2,8 +2,8 @@
 <html lang="es">
     <head>
         <meta charset="utf-8"/>
-        <title>Customer Survey :)</title>
-        <meta name="description" content="Esta es mi primer pagina web"/>
+        <title>Customer Experience Survey</title>
+        <meta name="description" content="Canteiro Weddings - Customer Experience Survey"/>
         <meta name="author" content="Mike"/>
         <meta name="keywords" content="Mi primer Blog, Cocina, Disenio, Desarrollo Web"/>
         <link rel="stylesheet" href="css/estilos.css">
