@@ -32,7 +32,7 @@
                 <section class="seccion">
                     <article> <!-- Articulo de bienvenida -->
                         <hgroup>
-                            <h1>CUSTOMER SATISFACTION SURVEY</h1>
+                            <h1>Customer Experience Survey</h1>
                         </hgroup>
                                 <p>Thank you very much for your preference and for taking the time to complete this questionnaire.</p>
                                 <br>
